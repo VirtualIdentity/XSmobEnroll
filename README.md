@@ -1,3 +1,5 @@
+[![Build Status](https://www.bitrise.io/app/6e5cd04a6542aa01.svg?token=IidG54c96LEa5mFm-IYUfg&branch=dev)](https://www.bitrise.io/app/6e5cd04a6542aa01)
+
 # IsItU
 A mobile app POC with Q&amp;A to identify the user.
 
